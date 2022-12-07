@@ -1,3 +1,4 @@
+// Bu code buralara kolay gelmedi bir bucuk saatimi aldi eyvallah cekmek lazim
 #include <stdio.h>
 #include <math.h>
 int main()
